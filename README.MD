@@ -24,7 +24,7 @@ This is a React Native + Expo app boilerplate. This contains initial pre-configu
 yarn create expo-app [AppName] -t gabrielcaamargo/expo-template-caamargoboilerplate
 
 # For npm users
-yarn create-expo-app myApp -t gabrielcaamargo/expo-template-caamargoboilerplate
+npm create-expo-app myApp -t gabrielcaamargo/expo-template-caamargoboilerplate
 ```
 
 2. After started the project, navigate to it on a terminal:
