@@ -37,7 +37,7 @@ cd myApp
 npx husky init
 ```
 
-After the third step, a folder called .husky will be created in the root of the project. Navigate into it, and inside the ``pre-commit` file, add:
+After the third step, a folder called .husky will be created in the root of the project. Navigate into it, and inside the ```pre-commit``` file, add:
 ```
 echo "Preparing everything to commit:\n"
 
