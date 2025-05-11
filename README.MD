@@ -21,7 +21,7 @@ This is a React Native + Expo app boilerplate. This contains initial pre-configu
 1. To create an Expo app, use the command:
 ```bash
 # For yarn users:
-yarn create expo-app [AppName] -t gabrielcaamargo/expo-template-caamargoboilerplate
+yarn create expo-app myApp -t gabrielcaamargo/expo-template-caamargoboilerplate
 
 # For npm users
 npm create-expo-app myApp -t gabrielcaamargo/expo-template-caamargoboilerplate
